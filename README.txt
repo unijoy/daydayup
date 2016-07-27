@@ -4,4 +4,4 @@ feature_test
 
 feature_publish test
 
-feature_publish 0
+feature_publish 00
