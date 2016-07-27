@@ -5,3 +5,5 @@ feature_test
 feature_publish test
 
 feature_publish 0
+
+B: develop branch modified : 1
